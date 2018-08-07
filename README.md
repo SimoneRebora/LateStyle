@@ -9,7 +9,7 @@ All sytlometric analyses are based on the "Stylo" package: <br />
 a package for computational text analysis. R Journal 8(1): 107-121. <br />
 <https://journal.r-project.org/archive/2016/RJ-2016-007/index.html> <br />
 <br />
-Some analyses and visualisations should also be implemented using Gephi and LIWC:<br />
+Some analyses and visualisations should also be implemented by using Gephi and LIWC:<br />
 https://gephi.org/<br />
 https://liwc.wpengine.com/<br />
 <br />
