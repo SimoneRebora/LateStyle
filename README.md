@@ -13,4 +13,4 @@ Some analyses and visualisations should also be implemented using Gephi and LIWC
 https://gephi.org/<br />
 https://liwc.wpengine.com/<br />
 <br />
-Please read opening comments before running the R scripts.<br />
+<i><b>Please read opening comments before running the R scripts.</i></b><br />
