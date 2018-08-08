@@ -197,13 +197,13 @@ dev.off()
 ##external
 
 png("Goethe_oppose_ext_young.png", width = 2000, height = 2000, res = 300)
-oppose(primary.corpus = Goethe_young, secondary.corpus = other_authors_young, text.slice.length=3000, text.slice.overlap=0, oppose.method="craig.zeta", visualization="markers")
+oppose(gui = FALSE, primary.corpus = Goethe_young, secondary.corpus = other_authors_young, text.slice.length=3000, text.slice.overlap=0, oppose.method="craig.zeta", visualization="markers")
 dev.off()
 
 png("Goethe_oppose_ext_middle.png", width = 2000, height = 2000, res = 300)
-oppose(primary.corpus = Goethe_mean, secondary.corpus = other_authors_mean, text.slice.length=3000, text.slice.overlap=0, oppose.method="craig.zeta", visualization="markers")
+oppose(gui = FALSE, primary.corpus = Goethe_mean, secondary.corpus = other_authors_mean, text.slice.length=3000, text.slice.overlap=0, oppose.method="craig.zeta", visualization="markers")
 dev.off()
 
 png("Goethe_oppose_ext_old.png", width = 2000, height = 2000, res = 300)
-oppose(primary.corpus = Goethe_old, secondary.corpus = other_authors_old, text.slice.length=3000, text.slice.overlap=0, oppose.method="craig.zeta", visualization="markers")
+oppose(gui = FALSE, primary.corpus = Goethe_old, secondary.corpus = other_authors_old, text.slice.length=3000, text.slice.overlap=0, oppose.method="craig.zeta", visualization="markers")
 dev.off()

@@ -2,7 +2,8 @@
 
 Scripts and corpora used for stylometric experiments on the concept of "late style".<br/>
 See <b>Said, E.W. </b>(2006), On “Late Style”: Music and Literature Against the Grain, Pantheon, New York.<br/>
-Tested authors: Johann Wolfgang Goethe, Robert Musil, and Franz Kafka<br />
+<br/>
+Tested authors: Johann Wolfgang Goethe (1749-1832), Robert Musil (1880-1942), and Franz Kafka (1883-1924)<br />
 <br />
 All sytlometric analyses are based on the "Stylo" package: <br />
 <b>Eder, M., Rybicki, J. and Kestemont, M. </b>(2016). Stylometry with R: 
