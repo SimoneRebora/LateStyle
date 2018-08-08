@@ -1,7 +1,8 @@
 ####Note1: the following code simply prepares files to be processed with LIWC
 ####More info and download: https://liwc.wpengine.com/
 ###Note2: the "Other_authors_corpus.RData" file is too big to be hosted on Github
-###Please download it from here: https://owncloud.gwdg.de/index.php/s/sO6r58SHKL6CZTg
+###and will be downloaded from here (please skip this passage after first download):
+download.file("https://owncloud.gwdg.de/index.php/s/sO6r58SHKL6CZTg/download", destfile = "Other_authors_corpus.RData")
 
 setwd("./Musil_corpus")
 filenames <- list.files(path = ".", pattern="*.txt", full.names=TRUE, recursive = TRUE)
