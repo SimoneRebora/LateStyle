@@ -2,7 +2,7 @@
 
 Scripts and corpora used for stylometric experiments on the concept of "late style".<br/>
 References:<br/>
-<b>Rebora, S. and Salgaro, M. </b>(2018), "Is 'Late Style' measurable? A stylometric analysis of Johann Wolfgang Goethe’s, Robert Musil’s, and Franz Kafka’s late works," in Elephant & Castle 18 online: http://cav.unibg.it/elephant_castle/web/saggi/is-late-style-measurable-a-stylometric-analysis-of- johann-wolfgang-goethe-s-robert-musil-s-and-franz-kafka-s-late-works/282.<br/>
+<b>Rebora, S. and Salgaro, M. </b>(2018), "Is 'Late Style' measurable? A stylometric analysis of Johann Wolfgang Goethe’s, Robert Musil’s, and Franz Kafka’s late works," in Elephant & Castle 18 online: http://cav.unibg.it/elephant_castle/web/saggi/is-late-style-measurable-a-stylometric-analysis-of-johann-wolfgang-goethe-s-robert-musil-s-and-franz-kafka-s-late-works/282.<br/>
 <b>Said, E.W. </b>(2006), On “Late Style”: Music and Literature Against the Grain, Pantheon, New York.<br/>
 <br/>
 Tested authors: Johann Wolfgang Goethe (1749-1832), Robert Musil (1880-1942), and Franz Kafka (1883-1924)<br />
